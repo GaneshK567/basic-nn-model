@@ -68,3 +68,6 @@ Evaluate the model with the testing data.
 ![ALT](sample_output.png "sample_output.png")
 
 ## RESULT
+
+Succesfully created and trained a neural network regression model for the given dataset.
+
