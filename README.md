@@ -10,7 +10,7 @@ Explain the problem statement
 
 ## Neural Network Model
 
-![ALT](nn_arc.jpg "nn_arc.png")
+![ALT](nn_arc.png "nn_arc.png")
 
 ## DESIGN STEPS
 
@@ -44,24 +44,24 @@ Evaluate the model with the testing data.
 
 ## PROGRAM
 
-Include your code here
+(https://github.com/GaneshK567/basic-nn-model/blob/47afbad0d70da3d540dfc037554bfac85f1b7fea/NNTraining.ipynb)
 
 ## Dataset Information
 
-Include screenshot of the dataset
+![ALT](dataset.png "dataset.png")
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+![ALT](plot.png "plot.png")
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+0.05628426373004913
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![ALT](sample output.png "sample output.png")
 
 ## RESULT
