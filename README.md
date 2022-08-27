@@ -10,7 +10,7 @@ Explain the problem statement
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![Semantic description of image](/main/nn_arc.png "nn_arc.png")
 
 ## DESIGN STEPS
 
