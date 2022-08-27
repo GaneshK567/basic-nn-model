@@ -10,7 +10,7 @@ Explain the problem statement
 
 ## Neural Network Model
 
-![ALT](/path/nn_arc.png "nn_arc.png")
+![ALT](nn_arc.jpg "nn_arc.png")
 
 ## DESIGN STEPS
 
