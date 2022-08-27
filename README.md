@@ -62,6 +62,6 @@ Evaluate the model with the testing data.
 
 ### New Sample Data Prediction
 
-![ALT](sample output.png "sample output.png")
+![ALT](sample_output.png "sample_output.png")
 
 ## RESULT
