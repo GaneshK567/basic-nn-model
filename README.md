@@ -10,7 +10,7 @@ Explain the problem statement
 
 ## Neural Network Model
 
-![Semantic description of image](/main/nn_arc.png "nn_arc.png")
+![ALT](/main/nn_arc.png "nn_arc.png")
 
 ## DESIGN STEPS
 
